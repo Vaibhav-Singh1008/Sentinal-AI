@@ -7,7 +7,10 @@
 
 # 🛡️ CypherRing: Financial Forensics Engine
 ### **RIFT 2026 Hackathon | Graph-Based Financial Crime Detection Track**
-
+---
+## Live Demo
+https://cypherring.onrender.com
+---
 **CypherRing** is a high-performance forensics engine engineered to expose money muling networks. The application transforms complex transaction data into graph structures to autonomously detect illicit financial patterns.
 
 ---
@@ -51,5 +54,4 @@ To ensure eligibility and avoid disqualification, CypherRing meets all mandatory
 | **Precision** | ≥ 70% (Minimizing false positives) | ✅ Target Met |
 | **Recall** | ≥ 60% (Catching maximum fraud rings) | ✅ Target Met |
 | **JSON Schema** | Exact line-by-line field matching | ✅ Validated |
-
 ---
